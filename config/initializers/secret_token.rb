@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-People::Application.config.secret_token = '74d1e980bd96d6973b1c1dbb0b8df42ed5d2dd350943e16869da6553e0e017f80e58bb52ed74d0a00236926250bb2b8ca4b72b1f6c3d767a6b20503f0963bdd2'
+People::Application.config.secret_token = 'cc963a9379b87de9985c7a5ba09b869ddb7e12adb26859ee03518c7508146a88dfe90fc77fbcf4a48e5cc5c4eb7457ac30c72d93cb5a00f1dc4e8d7135910122'
